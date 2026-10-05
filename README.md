@@ -614,8 +614,8 @@ A complete intelligence platform, not just a detection system.
 ## Team & Contributors
 Built during a hackathon by a small team:
 - **Arun Prakash Chaurasiya** ([@arun72-hub](https://github.com/arun72-hub)) 
-- **Rohan Kharche** ([@rohankharche34](https://github.com/rohankharche34))
-- **Harsh Dhoriyani** ([@Harsh Dhoriyani](https://github.com/HarshDhoriyani))
+- **RohitSahani2004** ([@RohitSahani2004](https://github.com/RohitSahani2004))
+- **Kusum-tech29** ([@Kusum-tech29](https://github.com/Kusum-tech29))
 
 Contributions of every kind are welcome — open an issue or PR.
 
