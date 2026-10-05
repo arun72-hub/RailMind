@@ -613,7 +613,7 @@ A complete intelligence platform, not just a detection system.
 ---
 ## Team & Contributors
 Built during a hackathon by a small team:
-- **Soham Vyas** ([@soham-v14](https://github.com/soham-v14)) 
+- **Arun Prakash Chaurasiya** ([@arun72-hub](https://github.com/arun72-hub)) 
 - **Rohan Kharche** ([@rohankharche34](https://github.com/rohankharche34))
 - **Harsh Dhoriyani** ([@Harsh Dhoriyani](https://github.com/HarshDhoriyani))
 
